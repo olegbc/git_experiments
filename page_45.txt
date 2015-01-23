@@ -3,10 +3,17 @@ first commit on new branch
 
 NEW CHANGES
 
+<<<<<<< HEAD
 
 
 changes besides branch
 
 some more not on branch
 
-I wonte some extra
+
+=======
+ideas on branch, I hope
+
+
+second one
+>>>>>>> ideas
