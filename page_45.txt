@@ -19,3 +19,5 @@ second one
 >>>>>>> ideas
 
 changes to clone 2
+
+changes to clone 3
