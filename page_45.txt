@@ -18,4 +18,4 @@ ideas on branch, I hope
 second one
 >>>>>>> ideas
 
-changes to clone 1
+changes to clone 2
